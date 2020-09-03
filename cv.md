@@ -4,7 +4,7 @@
 
 **Date of birth**: 09/21/1989
 
-**Education**:
+**Education**
 * BSU ("International Relations")
 * Academy of Public Administration ("Public Adminitration and Law")
 
@@ -13,7 +13,8 @@
 * No codes
 * No practice
 
-**English**: My working language.
+**English**
+My working language.
 
 **About myself**
 I believe that self-education, responibility, creativity and trust are the principles that made person today actualized. One of the most effective skills of the "modern kind" is the knowing how to learn. 
@@ -23,4 +24,3 @@ Let me mention my position at the moment. It is Deputy Head of The Intenational 
 I`ve graduated from 2 universities during the last decade. All my life I was trying to stay out of the so-called "comfort zone" and trying to enrich my extiction with new challenges. Now I have interesting job and interesting connections with people from different countries.  What were the isssues that brought me into "today"? I think - constant learning, right perseption of fear and risk-managment. 
 
 Today, I`ve found myself in the life period where I am so OK. I need a new challenge and give myself the opportunity to conquer another mountain. 
-
