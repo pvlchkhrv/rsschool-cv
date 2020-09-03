@@ -1,0 +1,31 @@
+.container {
+    margin: auto;
+    padding: 20px;
+    border: 2px green solid;
+    
+    max-width: 1024px;
+    margin: 0, auto;
+    font-family: serif; 
+}
+
+.contact {
+    font-weight: bold;
+}
+
+.contact_data {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.list {
+    list-style-type: square;
+}
+
+p {
+    font-weight: bolder;
+}
+
+.about p {
+    font-weight: normal;
+    text-align: justify;
+}
